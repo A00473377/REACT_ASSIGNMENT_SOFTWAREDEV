@@ -13,7 +13,7 @@ const AboutMe = () => {
             fontSize: "4.5rem",
           }}
         >
-          ZAID SHAIKH
+          ZAID SHAIKH  - This is DEV
         </h1>
         <img
           className="img"
